@@ -8,7 +8,7 @@ or compile and run on Linux systems using:
 $ gcc -o smallsh main.c
 $ ./smallsh
 ```
-Execute commands of the form command [arg1 arg2 ...] [< inputFile] [> outputFile] [&].
+Execute commands of the form `command [arg1 arg2 ...] [< inputFile] [> outputFile] [&]`.
 Arguments should be no more than 64 characters in length, with a maximum of 512 arguments.
 
 ## Motivation
