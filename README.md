@@ -2,7 +2,7 @@
 Basic shell program supporting input/output redirection and background execution. Written in C.
 
 ## Usage
-Visit https://replit.com/@maganinirj/smallsh?v=1 and click 'Run',
+Visit https://replit.com/@maganinirj/smallsh and click 'Run',
 or compile and run on Linux systems using:
 ```
 $ gcc -o smallsh main.c
